@@ -12,8 +12,10 @@ Outside of my studies, I've applied my development skills by creating websites f
 - ⚡ Fun fact: I'm fluent in Japanese! I self studied for 4 years, and worked part-time as an English/Japanese tutor for 1.5 years.
 - 📫 Want to collab or chat? Get in touch via [Email](mailto:sharmamitch+gh@gmail.com) or [Discord](https://discord.com/users/157610726326927361)
 
+<!--
 ### My Work At a Glance 👀
 [![SACNAS-Site](https://user-images.githubusercontent.com/90817905/206882123-16bbe8b0-e949-4173-b522-8d5ce67410fb.png)](https://sacnas-uh.org/)&nbsp; [![JLCC-Site](https://user-images.githubusercontent.com/90817905/206882227-2f132ad9-2158-47d0-8156-e1bc1a2a39d4.png)](https://jlcc-uh.org/)
+-->
 
 ### GitHub Stats 📈
 ![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmamitchell&count_private=true&show_icons=true&hide=issues&theme=dark#gh-dark-mode-only)&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmamitchell&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)
