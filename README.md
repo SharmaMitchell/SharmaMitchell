@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-I'm Mitchell Sharma, a Junior Software Engineer based in Houston, TX. I'm currently studying Computer Science at the University of Houston, graduating this December (2023).
+I'm Mitchell Sharma, a Software Engineer based in Houston, TX. I'm currently studying Computer Science at the University of Houston, graduating this December (2023).
 
 I'm deeply interested in both front-end and back-end development, the latter of which I'm studying at university, and the former I've been self studying since late 2021. 
 
