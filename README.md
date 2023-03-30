@@ -2,8 +2,11 @@
 
 I'm Mitchell Sharma, a Software Engineer based in Houston, TX. I'm currently studying Computer Science at the University of Houston, graduating this December (2023).
 
-Outside of my studies, I've applied my development skills by creating websites for student organizations at my university, and (as of recently) contributing to an open source social media platform.  
+Outside of my studies, I've applied my development skills by creating websites and Discord bots for student organizations at my university, developing Userscripts to improve academic websites, and contributing to an open source social media platform.  
+
+Most of my side projects are completely open source - feel free to watch, fork, or contribute below!  
   
+### At a Glance 👀  
 😄 My pronouns are: He/Him  
 🔭 I’m currently contributing to [Tenet](https://github.com/trishulaorg/tenet), an open source social media platform  
 🌱 I’m currently learning NextJS, Firebase, and Redux.  
