@@ -15,6 +15,7 @@ Outside of my studies, I've applied my development skills by creating websites f
 - **SACNAS UH**: A redesigned website for the SACNAS UH (diversity in STEM) student organization at the University of Houston.  
 - **JLCC UH**: The official website for the Japanese Language & Culture Club at the University of Houston.
 - **KomiBot**: A discord bot providing Japanese-English translations; in use on 10+ Discord servers across the US and Japan.
-
+<!--
 ### GitHub Stats 📈
 ![Mitchell's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmamitchell&count_private=true&show_icons=true&hide=issues&hide_rank=true&card_width=350&theme=dark#gh-dark-mode-only)&nbsp; ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sharmamitchell&layout=compact&langs_count=6&theme=dark#gh-dark-mode-only)
+-->
