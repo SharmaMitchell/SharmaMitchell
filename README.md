@@ -14,7 +14,8 @@ Most of my side projects are completely open source - feel free to watch, fork, 
 - 📫 Want to collab or chat? Get in touch via [Email](mailto:sharmamitch+gh@gmail.com) or [Discord](https://discord.com/users/157610726326927361)  
 
 ### My Projects 💻
-- **Tenet**: A lightweight, user-driven social media platform I'm creating with a team of 6 from Japan.  
+- **Tenet**: A lightweight, user-driven social media platform I'm creating with a team of 6 from Japan. 
+- **ZenDecks**: A Next-gen flashcard app, supporting Markdown and LaTeX; import/export compatible with Anki, Quizlet, etc.
 - **SACNAS UH**: A redesigned website for the SACNAS UH (diversity in STEM) student organization at the University of Houston.  
 - **JLCC UH**: The official website for the Japanese Language & Culture Club at the University of Houston.
 - **KomiBot**: A discord bot providing Japanese-English translations; in use on 10+ Discord servers across the US and Japan.
