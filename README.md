@@ -11,7 +11,7 @@ Most of my side projects are completely open source - feel free to watch, fork, 
 - 🔭 I’m currently contributing to [Tenet](https://github.com/trishulaorg/tenet-legacy), an open source social media platform  
 - 🌱 I’m currently learning NextJS, Firebase, and Redux.  
 - ⚡ Fun fact: I'm fluent in Japanese! I self studied for 4 years, and worked part-time as an English/Japanese tutor for 1.5 years.  
-- 📫 Want to collab or chat? Get in touch via [Email](mailto:sharmamitch+gh@gmail.com) or [Discord](https://discord.com/users/157610726326927361)  
+- 📫 Want to collab or chat? Get in touch via [Email](mailto:sharmamitch+gh@gmail.com)
 
 ### My Projects 💻
 - **Tenet**: A lightweight, user-driven social media platform I'm creating with a team of 6 from Japan. 
